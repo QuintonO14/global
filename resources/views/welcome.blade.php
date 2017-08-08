@@ -81,10 +81,10 @@
             @endif
         </div>
     <div class="registerError">
-    @include('layouts.partials.errors')
+    @include('partials.errors')
     </div>
 
 </div>
 </body>
-@include('layouts.partials.footer')
+@include('partials.footer')
 </html>
