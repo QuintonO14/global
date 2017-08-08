@@ -1,6 +1,5 @@
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/js/jquery.snippet.min.js"></script>
-<script src="/assets/js/toolkit.js"></script>
 <script src="/assets/js/application.js"></script>
 <script src="/assets/js/jquery.jscroll.js"></script>
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
